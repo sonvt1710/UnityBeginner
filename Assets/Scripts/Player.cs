@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using UnityEngine;
 public class Player : MonoBehaviour
 {
-    public float velocity = 2.4f;
+    public float velocity = 1.2f;
     public bool isDead = false;
     private Rigidbody2D rigidbody;
     public GameManager gameManager;
